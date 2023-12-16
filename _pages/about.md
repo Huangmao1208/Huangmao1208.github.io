@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Applied Science student from Electrical and Computer Engineering (https://uwaterloo.ca/electrical-computer-engineering/), University of Waterloo (https://uwaterloo.ca). My current research focuses on multi-agent reinforcement learning (MARL) and computational sprinting. 
+I am a Master of Applied Science student from Electrical and Computer Engineering, University of Waterloo. My current research focuses on multi-agent reinforcement learning (MARL) and computational sprinting. 
 
