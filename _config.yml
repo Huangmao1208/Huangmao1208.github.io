@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simon / Personal Website"
+title                    : "Simon/Personal Website"
 title_separator          : "-"
 name                     : &name "Jingyi (Simon) Wu"
 description              : &description "Sometimes it's the very people who no one imagines anything of who do the things no one can imagine."
