@@ -12,7 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Western University, 2022
+  * Undergrads Thesis: Modernizing ananalysis pipeline for human cerebellar imaging data in Python - [SUITPy/Reslice Module](https://github.com/diedrichsenlab/SUITPy)
+  * Supervisor: [Jörn Diedrichsen](https://www.diedrichsenlab.org) 
 * MASc in Electrical and Computer Engineering, University of Waterloo, 2024 (expected)
+  * Thesis: Privacy and Adaptive Computational Sprinting [PACS](https://github.com/Huangmao1208/MARL)
+  * Supervisor: [Seyed Majid Zahedi](https://ece.uwaterloo.ca/~smzahedi/)
 
 Work experience
 ======
