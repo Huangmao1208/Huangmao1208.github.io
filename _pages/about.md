@@ -13,10 +13,10 @@ I believe that sometimes the most remarkable individuals are the ones who fly un
 I have two lovely cats, Heihei (he/him) and Tutu (she/her).
 <div id="banner">
     <div class="inline-block">
-        <img src='/images/heihei.png' style="width: 50%; height: auto;">
+        <img src='/images/heihei.png' style="width: 25%; height: auto;">
     </div>
     <div class="inline-block">
-        <img src='/images/tutu.png' style="width: 50%; height: auto;">
+        <img src='/images/tutu.png' style="width: 25%; height: auto;">
     </div>
 </div>
 
