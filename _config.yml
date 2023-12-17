@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simon/Personal Website"
 title_separator          : "-"
 name                     : &name "Jingyi (Simon) Wu"
-description              : &description "Sometimes it's the very people who no one imagines anything of who do the things no one can imagine."
+description              : &description "Nice"
 url                      : https://Huangmao1208.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Huangmao1208/Huangmao1208.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jingyi (Simon) Wu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Sometimes it's the very people who no one imagines anything of who do the things no one can imagine."
   location         : "Waterloo, Canada"
   employer         :
