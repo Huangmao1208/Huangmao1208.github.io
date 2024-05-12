@@ -14,10 +14,11 @@ Education
 * B.S. in Computer Science, Western University, 2022
   * Undergrads Thesis: Modernizing ananalysis pipeline for human cerebellar imaging data in Python - [SUITPy/Reslice Module](https://github.com/diedrichsenlab/SUITPy)
   * Supervisor: [Jörn Diedrichsen](https://www.diedrichsenlab.org) 
-* MASc in Electrical and Computer Engineering, University of Waterloo, 2024 (expected)
-  * Thesis: Privacy and Adaptive Computational Sprinting - [PACS](https://github.com/Huangmao1208/MARL)
+* MASc in Electrical and Computer Engineering, University of Waterloo, 2024
+  * Thesis: [PACS](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=LpjeY6UAAAAJ&citation_for_view=LpjeY6UAAAAJ:u5HHmVD_uO8C): Privacy and Adaptive Computational Sprinting
   * Supervisor: [Seyed Majid Zahedi](https://ece.uwaterloo.ca/~smzahedi/)
-
+* Ph.D in Electrical and Computer Engineering, The Ohio State University, 2024 - now
+  * Supervisor: [Xiaorui Wang](http://www2.ece.ohio-state.edu/~xwang/)
 Work experience
 ======
 * May 2021 - Sep. 2021: Research Assistant
