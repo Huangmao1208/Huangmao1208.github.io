@@ -19,6 +19,7 @@ Education
   * Supervisor: [Seyed Majid Zahedi](https://ece.uwaterloo.ca/~smzahedi/)
 * Ph.D in Electrical and Computer Engineering, The Ohio State University, 2024 - now
   * Supervisor: [Xiaorui Wang](http://www2.ece.ohio-state.edu/~xwang/)
+
 Work experience
 ======
 * May 2021 - Sep. 2021: Research Assistant
